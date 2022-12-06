@@ -16,9 +16,9 @@ import './assets/js/scripts.js'
 // import './assets/js/datatables-simple-demo'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <Router>
       <App />
     </Router>
-  </React.StrictMode>
+  // </React.StrictMode>
 )
